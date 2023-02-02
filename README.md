@@ -1,1 +1,1 @@
-# skin_cancer_prediction_CNN
+# Skin Cancer Prediction CNN
